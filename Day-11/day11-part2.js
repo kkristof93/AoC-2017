@@ -15,7 +15,7 @@ function distance(point) {
 let max = 0;
 
 directions.forEach(d => {
-  switch(d) {
+  switch (d) {
     case 'n':
       steps.y++;
       steps.z--;
@@ -43,7 +43,7 @@ directions.forEach(d => {
   }
 
   let dist = distance(steps);
-  if(dist > max) {
+  if (dist > max) {
     max = dist;
   }
 });
