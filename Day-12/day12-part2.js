@@ -6,7 +6,7 @@ const lines = file.split("\n");
 const programs = [];
 for (line of lines) {
   const items = line.split(' <-> ');
-  const id = parseInt(items[0], 10)
+  const id = parseInt(items[0], 10);
 
   programs[id] = {
     id: id,
@@ -26,7 +26,7 @@ function bfs(startId) {
       if (!programs[p].visited) {
         queue.push(p);
       }
-    })
+    });
     
     program.visited = true;
   }
