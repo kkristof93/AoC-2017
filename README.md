@@ -7,8 +7,8 @@ This year I decided to solve the Advent of Code challenges. To make this more fu
 ## Days and Languages
 * Day 1-5: Python (2.7.10)
 * Day 6-10: Swift (4.0.3)
-* Day 11-15: JavaScript (Node.js v8.9.2)
-* Day 16-20: C/C++ (?)
+* Day 11-15: JavaScript (ESMAScript 6, Node.js v8.9.2)
+* Day 16-20: Ruby (2.3.3)
 * Day 21-25: Rust
 
 ## Summary
