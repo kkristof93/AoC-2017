@@ -12,4 +12,14 @@ This year I decided to solve the Advent of Code challenges. To make this more fu
 * Day 21-25: Kotlin (1.2.10)
 
 ## Summary
-_TBD_
+I really liked doing Advent of Code 2017. The challenges were great, some of them took some time to solve. My favourite ones were those which required to use basic CS algorithms (like BFS in Day 12).
+
+**Python** is probably the best choice for these kind of tasks. It's interpreted, fast to write, run and test iteratively. I don't know the ins and outs of the language, but it is so easy and intuitive, that anyone can use it to solve these puzzles.
+
+Since I work as an iOS developer, **Swift** was a great choice to use. It's a good fit for beginners too, but the strong type system and the automatic reference counting can cause some confusion at first time. However, the compiler is smart and warns you about common errors.
+
+**JavaScript** is almost mandatory to know for every developer. Besides it's the language which runs in the browser (and unfortunately in desktop apps with Electron 🤢), with Node.js it's great for server side applications too. Node is very good for rapid application development, since there is an existing module for every kind of need. The language is well improved with the new ES variants.
+
+Originally I planned to use C or C++, but later I decided to use **Ruby**. I have never written any Ruby before. It's strange... It's easy to use, but in my opinion the syntax is awful. I could solve the challenges, but I think I'll choose any other applicable language instead of Ruby in the future.
+
+A second change was made in the language list, since I used **Kotlin** instead of the originally planned Rust. I had zero knowledge in both, but Kotlin is way easier to learn, that's why I decided to use that. It's very similar to Swift ([Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)) and since it runs on the JVM, my Java knowledge were useful too. I'm really interested in Kotlin, especially in cross-platform development with Kotlin Native.
